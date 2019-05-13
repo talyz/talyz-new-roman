@@ -18,7 +18,7 @@ html, body {
   padding-top: 50px;
 }
 
-.smelvetica {
+.talyz_new_roman {
   font-family: "Talyz New Roman", monospace;
 }
 
@@ -59,7 +59,7 @@ h2 {
   padding-bottom: 100px;
 }
 
-.demos .smelvetica {
+.demos .talyz_new_roman {
   width: 370px;
   margin: auto;
   text-align: center;
